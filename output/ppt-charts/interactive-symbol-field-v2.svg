@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .bg{fill:#f1f1f3}.ink{fill:#111;font-family:'Noto Serif CJK SC','Songti SC','SimSun',serif}.sans{font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC',sans-serif}.red{fill:#92131a}.blue{fill:#0488dc}.cream{fill:#f3dfbd}.box{fill:#fff;stroke:#222;stroke-width:1.6}.dash{stroke:#92131a;stroke-width:2;stroke-dasharray:7 5;fill:none}.line{stroke:#222;stroke-width:2.2;fill:none;marker-end:url(#arrow)}.white{fill:#fff}.muted{fill:#555}.em{fill:#e40012;font-weight:800}.small{font-size:21px}.tiny{font-size:17px}.label{font-size:25px}.nodeTitle{font-size:28px;font-weight:700}.shadow{filter:url(#shadow)}
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+    <filter id="shadow" x="-12%" y="-12%" width="130%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity=".16"/></filter>
+    <linearGradient id="vr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a86a43"/><stop offset="1" stop-color="#55311f"/></linearGradient>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text x="62" y="116" class="ink red" font-size="58" font-weight="800">04.</text>
+  <rect x="0" y="146" width="205" height="9" class="red"/>
+  <text x="255" y="120" class="ink" font-size="47" font-weight="800">交互符号场的叙事结构</text>
+  <text x="50" y="196" class="sans muted" font-size="25">案例图：VR游戏《幽灵巨人》中的微缩城镇与“巨大的双手”，共同组织亲历者的保护性动作意向。</text>
+
+  <rect x="48" y="250" width="618" height="535" fill="#161616" class="shadow"/>
+  <rect x="120" y="250" width="475" height="535" fill="url(#vr)"/>
+  <path d="M190 300 L310 265 L384 332 L260 368 Z" fill="#8e4f32"/><path d="M310 265 L440 300 L384 332 Z" fill="#b87846"/>
+  <rect x="205" y="356" width="150" height="190" fill="#2d7797"/><rect x="356" y="333" width="88" height="210" fill="#a5653f"/>
+  <path d="M202 548 C310 520 395 535 509 500" stroke="#d5b48b" stroke-width="22" fill="none"/><path d="M210 548 C315 523 396 536 510 502" stroke="#765039" stroke-width="13" fill="none"/>
+  <rect x="475" y="294" width="58" height="150" fill="#74442c"/><path d="M460 292 L531 245 L584 297 Z" fill="#9c5937"/>
+  <circle cx="402" cy="476" r="20" fill="#efca69"/><circle cx="545" cy="446" r="14" fill="#e9c45d"/>
+  <path d="M261 795 C220 715 232 643 282 594 C331 650 343 726 323 795 Z" class="blue"/><path d="M426 795 C401 720 414 650 486 602 C533 663 517 736 487 795 Z" class="blue"/>
+  <circle cx="418" cy="536" r="23" fill="#6d4c42"/><circle cx="410" cy="532" r="5" fill="#111"/><circle cx="428" cy="532" r="5" fill="#111"/>
+  <path d="M238 445 q40 -28 76 0" stroke="#d8b681" stroke-width="10" fill="none"/><text x="454" y="285" class="sans white small">VR小熊猫</text>
+  <text x="204" y="822" class="sans white tiny">案例画面示意：微缩景观 + 巨大双手 + 小猫视线</text>
+
+  <rect x="724" y="250" width="300" height="94" fill="#92131a" class="shadow"/><text x="756" y="286" class="ink white nodeTitle">符号场</text><text x="756" y="323" class="sans white small">“巨大的双手” / “微缩景观”</text>
+  <rect x="1110" y="250" width="320" height="94" class="box shadow"/><text x="1152" y="288" class="ink nodeTitle">叙事背景</text><text x="1144" y="324" class="sans small">情节经验结构 / 情绪感知结构</text>
+  <path d="M1024 297 H1110" class="line"/><text x="1047" y="282" class="sans red small">作为</text>
+
+  <rect x="736" y="423" width="250" height="88" class="box" stroke-dasharray="7 5"/><text x="778" y="460" class="sans label">保护冲动</text><text x="768" y="493" class="sans tiny">亲历者面向小猫的动作倾向</text>
+  <path d="M1110 344 C1072 382 1028 423 986 460" class="line"/><text x="1004" y="397" class="sans red small">引发</text>
+
+  <rect x="1114" y="418" width="245" height="94" fill="#6e7071" class="shadow"/><text x="1160" y="456" class="ink white nodeTitle">情感基础</text><text x="1148" y="493" class="sans white small">同情、守护、陪伴</text>
+  <path d="M986 467 H1114" class="line"/><text x="1027" y="448" class="sans red small">奠定</text>
+
+  <rect x="759" y="592" width="285" height="104" fill="#2f3430" class="shadow"/><text x="806" y="634" class="ink white nodeTitle">情感传递结构</text><text x="790" y="673" class="sans white small">符号 — 情节 — 情绪的联动</text>
+  <path d="M1236 512 C1196 562 1102 620 1044 644" class="line"/><text x="1126" y="575" class="sans red small">构建</text>
+
+  <rect x="1160" y="610" width="300" height="86" class="box" stroke="#92131a" stroke-width="2"/><text x="1195" y="646" class="sans label">亲历者的动作意向性</text><text x="1207" y="678" class="sans tiny">伸手、保护、靠近与回应</text>
+  <path d="M1044 644 H1160" class="line"/><text x="1075" y="626" class="sans red small">投射为</text>
+
+  <rect x="704" y="748" width="772" height="70" class="box" stroke="#92131a" stroke-width="2" stroke-dasharray="8 5"/><text x="730" y="791" class="sans red small">梅洛-庞蒂：表达动作的不同包含了情绪本身的不同；行动结构即情绪结构的可见化。</text>
+  <path d="M1309 696 V748" class="line"/>
+</svg>
